@@ -1,0 +1,41 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="00966C77-360E-4B1E-83A5-896008821B6C" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="9EFA3979-0C77-47B4-B8BE-1804F9ABEB63" controlTypeID="TextInput" x="46" y="118" w="283" h="62" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>M%C3%A3+x%C3%A1c+nh%E1%BA%ADn</placeHolder>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="8D8742AC-B1A1-4962-831C-86F0927D3CC9" controlTypeID="Button" x="128" y="296" w="120" h="48" zOrder="1">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A366E038-E0C8-424F-BB0C-DEAF5A56BE8F" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{78DD53FF-618F-47B8-BC45-7BD83A746357}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>OK</text>
+      <textColor>4294967295</textColor>
+      <textSize>22</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="4E22D550-5A8D-4565-82D0-C330E4A3732B" controlTypeID="Keyboard" x="0" y="427" w="375" h="240" zOrder="2">
+      <keyboardType>ktGridNine</keyboardType>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

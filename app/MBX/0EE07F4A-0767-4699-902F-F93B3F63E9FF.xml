@@ -1,0 +1,43 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0EE07F4A-0767-4699-902F-F93B3F63E9FF" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="1AC86356-5B03-4D29-98F1-F78A73123D52" controlTypeID="DataGrid" x="0" y="62" w="375" h="605" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>T%C3%AAn+nh%C3%A0+xe+%5E%2C+Gi%C3%A1+ti%E1%BB%81n+%5Ev%2C+Ng%C3%A0y+gi%E1%BB%9D+xu%E1%BA%A5t+ph%C3%A1t%2C+%C4%90%C3%A1nh+gi%C3%A1%0D%0APh%C6%B0%C6%A1ng+Trang%2C+230.000%2C+15%3A20+26%2F3%2C+*****%0D%0ATh%C3%A0nh+B%C6%B0%E1%BB%9Fi%2C+240.000%2C+15%3A20+26%2F3%2C+***%0D%0AMai+Linh%2C+260.000%2C+15%3A20+26%2F3%2C+*****%0D%0ATi%E1%BA%BFn+Oanh%2C+280.000%2C+15%3A20+26%2F3%2C+**%0D%0ALoan+S%C3%A1ng%2C+210.000%2C+15%3A20+26%2F3%2C+*</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <itemHeight>48</itemHeight>
+      <columnRatio>{26.1,21.3,34.7,17.9}</columnRatio>
+      <itemRect>[{"left":0,"top":0,"right":375,"bottom":22},{"left":0,"top":22,"right":375,"bottom":70},{"left":0,"top":70,"right":375,"bottom":118},{"left":0,"top":118,"right":375,"bottom":166},{"left":0,"top":166,"right":375,"bottom":214},{"left":0,"top":214,"right":375,"bottom":262}]</itemRect>
+    </control>
+    <control controlID="E32C8538-845C-4203-89C6-EB207B9BE30F" controlTypeID="Label" x="6" y="10" w="161" h="19" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%C4%90i+t%E1%BB%AB%3A+TP.HCM+t%E1%BB%9Bi%3A+B%E1%BA%A3o+L%E1%BB%99c</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A187051D-8E4D-4BB2-B9B5-D3A0430B377F" controlTypeID="Label" x="0" y="47" w="171" h="15" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>hi%E1%BB%83n+th%E1%BB%8B+6%2F14+k%E1%BA%BFt+qu%E1%BA%A3+%C4%91%C6%B0%E1%BB%A3c+t%C3%ACm+th%E1%BA%A5y</text>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AFDF9117-1665-4C50-9952-998F0C9A5ACA" controlTypeID="Button" x="258" y="39" w="117" h="23" zOrder="3">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Th%C3%AAm+b%E1%BB%99+l%E1%BB%8Dc</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

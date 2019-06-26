@@ -1,0 +1,70 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="93E67AC5-EBD8-4DCC-9CD5-40145F805F52" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="8">
+    <control controlID="EB0C60F8-0C3B-4802-8B7D-FC1AD15309DE" controlTypeID="LabelTextInput" x="24" y="24" w="326" h="31" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>H%E1%BB%8D+t%C3%AAn%2C+Nguy%E1%BB%85n+V%C4%83n+A</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8B9F9A6A-9425-4038-B4F4-D4AF73D260E9" controlTypeID="LabelTextInput" x="24" y="163" w="326" h="43" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%C4%90%E1%BB%8Ba+ch%E1%BB%89%2C+</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7A9ED418-F504-4977-85FE-C010CB4B4FBB" controlTypeID="LabelTextInput" x="24" y="226" w="326" h="24" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>S%E1%BB%91+CMT%2C+192168999</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="05B53471-449A-4D51-A107-6661CFE65249" controlTypeID="LabelTextInput" x="24" y="270" w="326" h="24" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>S%E1%BB%91+%C4%90T%2C+0988-900-100</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="26552629-DDAB-4758-8B34-2B6638D7E497" controlTypeID="LabelTextInput" x="24" y="75" w="326" h="24" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Ng%C3%A0y+sinh%2C+25%2F12%2F1999</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="95EAD702-1577-4652-97C3-598A04E92800" controlTypeID="LabelTextInput" x="24" y="119" w="326" h="24" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email%2C+dalago_admin@dalago.com</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1A11CD46-48C4-4CB0-9AE3-728078E38742" controlTypeID="Button" x="128" y="340" w="120" h="48" zOrder="6">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A366E038-E0C8-424F-BB0C-DEAF5A56BE8F" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{5AF54FE3-119E-4056-8FA0-E3696A65A0E2}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%C4%90%C4%83ng+k%C3%BD</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="073EA46D-CA6F-4E34-B6D4-F2A47DA7BAE7" controlTypeID="Keyboard" x="0" y="404" w="375" h="263" zOrder="7"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

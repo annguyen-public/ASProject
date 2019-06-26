@@ -1,0 +1,66 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="25D02CDF-DC02-44B4-A911-1E160BB0338F" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="2E4F3C1F-4D59-4268-8E8F-F7E88A545400" controlTypeID="Button" x="38" y="225" w="313" h="48" zOrder="0">
+      <caption>signup</caption>
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00966C77-360E-4B1E-83A5-896008821B6C" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{297F88DB-E2B2-4E9C-B47E-35DD9952A756}" coords="(0,0,313,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%C4%90%C4%83ng+nh%E1%BA%ADp+b%E1%BA%B1ng+s%E1%BB%91+%C4%91i%E1%BB%87n+tho%E1%BA%A1i</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="3D32F98B-2502-4B91-B68A-7819A87B2651" controlTypeID="Button" x="38" y="352" w="313" h="48" zOrder="1">
+      <caption>login</caption>
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="93E67AC5-EBD8-4DCC-9CD5-40145F805F52" linkType="ltPageLink" isApplyIncludePage="False" title="SignUp">
+          <area shape="0" alt="" ID="{12C594A3-4554-4EC1-8423-1E7097685E8B}" coords="(0,0,313,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%C4%90%C4%83ng+k%C3%BD</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="2A4CB431-606E-44AC-A9C1-077CFEE832E2" controlTypeID="TextInput" x="28" y="122" w="331" h="39" zOrder="2">
+      <caption>phoneNumber</caption>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>0902-900-100</text>
+      <textSize>32</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="638221AC-6A2F-4AFB-97F7-65FED8ADA262" controlTypeID="Label" x="178" y="307" w="31" h="19" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Ho%E1%BA%B7c</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C65E0BF0-81BF-4480-BFA4-6309A34CDDF0" controlTypeID="Keyboard" x="0" y="428" w="375" h="240" zOrder="4">
+      <keyboardType>ktGridNine</keyboardType>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

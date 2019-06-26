@@ -1,0 +1,22 @@
+﻿<project version="2.9" name="iphone" ID="88CC102F-396A-4A9F-AB51-D0D386CA05C8">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="True"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="StartUp" ID="25D02CDF-DC02-44B4-A911-1E160BB0338F" expanded="True" code="BMfBoZOY9H" thumbCode="BMfBoZOY9H" status="psWhite" isfolder="False" isshownode="True">
+      <page name="Login" ID="00966C77-360E-4B1E-83A5-896008821B6C" expanded="True" code="aztLG7mi5O" thumbCode="aztLG7mi5O" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="SignUp" ID="93E67AC5-EBD8-4DCC-9CD5-40145F805F52" expanded="True" code="q1hSDSzgh2" thumbCode="q1hSDSzgh2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="Home" ID="A366E038-E0C8-424F-BB0C-DEAF5A56BE8F" expanded="True" code="keJlJBhUAS" thumbCode="keJlJBhUAS" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="SearchResult" ID="0EE07F4A-0767-4699-902F-F93B3F63E9FF" expanded="True" code="OB3jrFKtfr" thumbCode="tfoOWOvueC" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash>
+    <page name="Home" ID="DA9A381D-3C2C-4554-B2CD-C78EBB78114C" expanded="True" code="Y1FefnFVDz" thumbCode="Ph2z165xVP" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images/>
+</project>

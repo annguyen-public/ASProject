@@ -1,0 +1,12 @@
+﻿<LinkSources version="1.02">
+  <page ID="00966C77-360E-4B1E-83A5-896008821B6C">
+    <linkSource sourcePageID="25D02CDF-DC02-44B4-A911-1E160BB0338F" comID="2E4F3C1F-4D59-4268-8E8F-F7E88A545400" comLinkType="cltPageLink"/>
+  </page>
+  <page ID="93E67AC5-EBD8-4DCC-9CD5-40145F805F52">
+    <linkSource sourcePageID="25D02CDF-DC02-44B4-A911-1E160BB0338F" comID="3D32F98B-2502-4B91-B68A-7819A87B2651" comLinkType="cltPageLink"/>
+  </page>
+  <page ID="A366E038-E0C8-424F-BB0C-DEAF5A56BE8F">
+    <linkSource sourcePageID="00966C77-360E-4B1E-83A5-896008821B6C" comID="8D8742AC-B1A1-4962-831C-86F0927D3CC9" comLinkType="cltPageLink"/>
+    <linkSource sourcePageID="93E67AC5-EBD8-4DCC-9CD5-40145F805F52" comID="1A11CD46-48C4-4CB0-9AE3-728078E38742" comLinkType="cltPageLink"/>
+  </page>
+</LinkSources>
